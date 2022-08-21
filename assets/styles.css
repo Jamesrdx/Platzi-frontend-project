@@ -1,0 +1,15 @@
+:root{
+    --white: #ffffff;
+    --black: #000000;
+    --very-light-pink: #c7c7c7;
+    --hospital-green: #ACD9B2;
+}
+*{
+    box-sizing: border-box;
+}
+html{
+    font-size: 62.5%;
+}
+body{
+    font-family: 'Quicksand', sans-serif;
+}
